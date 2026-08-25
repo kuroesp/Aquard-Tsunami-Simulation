@@ -11,7 +11,6 @@
 
 ## ✨ Table of Contents
 - [Credits AQUARD Team](#credits-aquard-team)
-- [Why this project exists?](#%E2%80%8D-why-this-project-exists)
 - [Project Introduction](#-project-introduction)
 - [Features](#ⓘ-features)
 - [Hardware & Software](#%EF%B8%8F-hardware--software)
@@ -28,8 +27,6 @@
 #### Nurli Avrilia Putri as Project Presenter
 #### Chesya Rahmadani as Project Presenter 
 #### Fitri Nurhalizah as Project Presenter 
-
-## 👨🏻‍💻 Why this project exists? 
 
 
 ## ֎🇦🇮 Project Introduction
