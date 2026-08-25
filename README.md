@@ -4,7 +4,7 @@
   ### Simulation wave and amplitudo realtime
   
   
-  <img src="img/preview.jpg" width="400">
+  <img src="img/Preview.png" width="400">
 
   
 </div>
